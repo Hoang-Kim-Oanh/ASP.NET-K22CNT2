@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai2.2_hko", "bai2.2_hko\bai2.2_hko.csproj", "{B63E5E32-2E3E-40A9-A2DC-951B4A43BE79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63E5E32-2E3E-40A9-A2DC-951B4A43BE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63E5E32-2E3E-40A9-A2DC-951B4A43BE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63E5E32-2E3E-40A9-A2DC-951B4A43BE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63E5E32-2E3E-40A9-A2DC-951B4A43BE79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBA1B4A8-D6E9-4A54-8022-72CF39BDF8DE}
+	EndGlobalSection
+EndGlobal
