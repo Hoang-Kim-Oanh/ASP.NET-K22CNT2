@@ -1,0 +1,2 @@
+C:\bai2.2_hko\bai2.2_hko\obj\Debug\bai2.2_hko.csproj.AssemblyReference.cache
+C:\bai2.2_hko\bai2.2_hko\obj\Debug\bai2.2_hko.csproj.CoreCompileInputs.cache
