@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "HKOListCustomer";
+    var list = ViewBag.list as List<HKOCustomer>;
+
+}
+
+<h2>Danh sách khách hàng</h2>
+
+<div class="row">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Mã số</th>
+                <th>Họ và tên</th>
+                <th>Địa chỉ</th>
+                <th>Năm sinh</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in list)
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
