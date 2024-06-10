@@ -1,0 +1,66 @@
+﻿@model HKOBaiThiGiuaKy.Models.HkoCustomer
+
+@{
+    ViewBag.Title = "HkoDetails";
+}
+
+<h2>HkoDetails</h2>
+
+<div>
+    <h4>HkoCustomer</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Id
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HkoId)
+        </dd>
+
+        <dt>
+            Full Name
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HkoFullName)
+        </dd>
+
+        <dt>
+            Email
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HkoEmail)
+        </dd>
+
+        <dt>
+            Phone
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HkoPhone)
+        </dd>
+
+        <dt>
+            Age
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HkoAge)
+        </dd>
+
+        <dt>
+            Gender
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HkoGender)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "HkoEdit", new {  hkoid = Model.HkoId }) |
+    @Html.ActionLink("Back to List", "HkoIndex")
+</p>

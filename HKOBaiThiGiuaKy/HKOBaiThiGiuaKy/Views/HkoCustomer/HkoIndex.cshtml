@@ -1,0 +1,71 @@
+﻿@model IEnumerable<HKOBaiThiGiuaKy.Models.HkoCustomer>
+
+@{
+    ViewBag.Title = "HkoIndex";
+}
+
+<h2>HkoIndex</h2>
+
+<p>
+    @Html.ActionLink("Create New", "HkoCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Full mame
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            Phone
+        </th>
+        <th>
+            Age
+        </th>
+        <th>
+            Gender
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HkoId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HkoFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HkoEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HkoPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HkoAge)
+            </td>
+            <td>
+                @if (item.HkoGender == 1)
+                {
+                    @:Nữ
+                }
+                else
+                {
+                    @:Nam
+                }
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "HkoEdit", new { hkoid = item.HkoId }) |
+                @Html.ActionLink("Details", "HkoDetails", new { hkoid = item.HkoId }) |
+                @Html.ActionLink("Delete", "HkoDelete", new { hkoid = item.HkoId })
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|c:\\users\\dinhh\\downloads\\hkobaithigiuaky\\hkobaithigiuaky\\views\\hkocustomer\\hkodelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|solutionrelative:hkobaithigiuaky\\views\\hkocustomer\\hkodelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|c:\\users\\dinhh\\downloads\\hkobaithigiuaky\\hkobaithigiuaky\\controllers\\hkocustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|solutionrelative:hkobaithigiuaky\\controllers\\hkocustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|c:\\users\\dinhh\\downloads\\hkobaithigiuaky\\hkobaithigiuaky\\views\\hkocustomer\\hkodetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|solutionrelative:hkobaithigiuaky\\views\\hkocustomer\\hkodetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|c:\\users\\dinhh\\downloads\\hkobaithigiuaky\\hkobaithigiuaky\\views\\hkocustomer\\hkoindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|solutionrelative:hkobaithigiuaky\\views\\hkocustomer\\hkoindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|c:\\users\\dinhh\\downloads\\hkobaithigiuaky\\hkobaithigiuaky\\views\\hkocustomer\\hkoedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|solutionrelative:hkobaithigiuaky\\views\\hkocustomer\\hkoedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|c:\\users\\dinhh\\downloads\\hkobaithigiuaky\\hkobaithigiuaky\\models\\hkocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|solutionrelative:hkobaithigiuaky\\models\\hkocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|c:\\users\\dinhh\\downloads\\hkobaithigiuaky\\hkobaithigiuaky\\views\\hkocustomer\\hkocreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|solutionrelative:hkobaithigiuaky\\views\\hkocustomer\\hkocreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|c:\\users\\dinhh\\downloads\\hkobaithigiuaky\\hkobaithigiuaky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7F6440-5411-4C7F-B736-BE01FC07C214}|HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy.csproj|solutionrelative:hkobaithigiuaky\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HkoDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoDelete.cshtml",
+              "RelativeDocumentMoniker": "HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoDelete.cshtml",
+              "ToolTip": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoDelete.cshtml",
+              "RelativeToolTip": "HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoDelete.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T08:19:46.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HkoDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoDetails.cshtml",
+              "RelativeDocumentMoniker": "HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoDetails.cshtml",
+              "ToolTip": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoDetails.cshtml",
+              "RelativeToolTip": "HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoDetails.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T08:15:31.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hkoEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Views\\HkoCustomer\\hkoEdit.cshtml",
+              "RelativeDocumentMoniker": "HKOBaiThiGiuaKy\\Views\\HkoCustomer\\hkoEdit.cshtml",
+              "ToolTip": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Views\\HkoCustomer\\hkoEdit.cshtml",
+              "RelativeToolTip": "HKOBaiThiGiuaKy\\Views\\HkoCustomer\\hkoEdit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T08:09:40.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HkoCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoCreate.cshtml",
+              "RelativeDocumentMoniker": "HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoCreate.cshtml",
+              "ToolTip": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoCreate.cshtml",
+              "RelativeToolTip": "HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoCreate.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwBUAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T07:58:07.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HkoIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoIndex.cshtml",
+              "RelativeDocumentMoniker": "HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoIndex.cshtml",
+              "ToolTip": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoIndex.cshtml",
+              "RelativeToolTip": "HKOBaiThiGiuaKy\\Views\\HkoCustomer\\HkoIndex.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAUwD4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T07:45:13.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HkoCustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Controllers\\HkoCustomerController.cs",
+              "RelativeDocumentMoniker": "HKOBaiThiGiuaKy\\Controllers\\HkoCustomerController.cs",
+              "ToolTip": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Controllers\\HkoCustomerController.cs",
+              "RelativeToolTip": "HKOBaiThiGiuaKy\\Controllers\\HkoCustomerController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAHMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:40:59.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HkoCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Models\\HkoCustomer.cs",
+              "RelativeDocumentMoniker": "HKOBaiThiGiuaKy\\Models\\HkoCustomer.cs",
+              "ToolTip": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Models\\HkoCustomer.cs",
+              "RelativeToolTip": "HKOBaiThiGiuaKy\\Models\\HkoCustomer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:33:07.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HKOBaiThiGiuaKy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dinhh\\Downloads\\HKOBaiThiGiuaKy\\HKOBaiThiGiuaKy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HKOBaiThiGiuaKy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T07:31:34.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
